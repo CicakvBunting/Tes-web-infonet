@@ -1,0 +1,17 @@
+[
+	{ 
+		nama: 'John Doe',
+		jabatan: 'Manager',
+		gender: 'M',
+	}, 
+	{ 
+		nama: 'Jane Doe',
+		jabatan: 'Purchasing Staff',
+		gender: 'F',
+	}, 
+	{ 
+		nama: 'Bruce Wayne',
+		jabatan: 'Supervisor',
+		gender: 'M',
+	}, 
+]
